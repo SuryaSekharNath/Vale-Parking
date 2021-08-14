@@ -1,0 +1,36 @@
+.body_background
+{
+    background-image: url(concrete-road.jpg);
+    background-position: center;
+    background-size: cover;
+}
+body
+{
+    cursor: pointer;
+}
+h1
+{
+    color: yellow;
+    font-size: 40px;
+}
+h4
+{
+    font-size: 30px;
+    color: yellow;
+}
+span
+{
+    color: yellow;
+}
+span.note
+{
+    font-size: 30px;
+    color: red;
+}
+#my_Canvas
+{
+    background-image: url(parkingLot.jpg);
+    border-width: 10px;
+    border-color: white;
+    border-style: ridge;
+}
